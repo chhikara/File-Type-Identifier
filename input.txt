@@ -1,0 +1,11 @@
+5
+abc.py
+C:\python3\dev
+abc.ccpp
+C:\turbo\abhishek
+bcd.dll
+C:\tmp
+efg.dl
+C:\lib
+mno.cpp
+C:\TURBOC3\bin

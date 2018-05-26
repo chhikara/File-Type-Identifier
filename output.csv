@@ -1,0 +1,6 @@
+File Name,Developer,Category,Format,Remarks,Directory,Directory Info
+abc.py,Python Software Foundation,Developer Files,Text,This file is saved in a plain text format. You can open and view the contents of this file using a text editor.,dev,Contains common device file types
+abc.ccpp,Null,Null,Null,Null,abhishek,No Info Found
+bcd.dll,Microsoft,System Files,Binary,"This file is saved in a binary format, which requires a specific program to read its contents.",tmp,Contains file that are required temporarily to the system 
+efg.dl,Microsoft,Game Files,Binary,"This file is saved in a binary format, which requires a specific program to read its contents.",lib,Contains kernel modules and shared library images
+mno.cpp,N/A,Developer Files,Text,This file is saved in a plain text format. You can open and view the contents of this file using a text editor.,bin,Contains all the binary files
